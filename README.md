@@ -31,7 +31,7 @@ The script includes a dictionary of application aliases, allowing users to refer
 2. **Feedback:** The system responds audibly to confirm the action taken or to indicate if the command was not understood.
 
 ### Project Status:
-The project is operational and ready for use.
+The project is under development.
 
 ### Future Enhancements:
 1. **Continuous Listening:** Implement continuous listening for hands-free interaction.
